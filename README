@@ -823,4 +823,6 @@ How do I disable the vsync?
  - Set gl_swapinterval to 0 and type vid_restart. Beware that this may
    not work with SDL 1.2 due to bugs in SDL.
 
+you can get quake2 demo here http://www.fileplanet.com/6584/0/fileinfo/Quake-2-Demo-v3.14
+
 ==============================================================================
